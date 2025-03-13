@@ -1,0 +1,1615 @@
+{
+    "overview": {
+        "type": "hotels",
+        "title": "The Peninsula Beverly Hills",
+        "requested": {
+            "start_date": "2025-03-17",
+            "end_date": "2025-03-18",
+            "occupancy": 2,
+            "number_of_adults": 2
+        },
+        "available": true,
+        "currency": "USD",
+        "coordinates": {
+            "latitude": 34.0660173,
+            "longitude": -118.4106517
+        },
+        "address": "9882 S Santa Monica Blvd, Beverly Hills, CA 90212",
+        "phone": "(310) 551-2888",
+        "fid": "0x80c2bbf5e7cc85a3:0x2f351fbbd50aab48"
+    },
+    "name": "The Peninsula Beverly Hills",
+    "coordinates": [
+        34.0660173,
+        -118.4106517
+    ],
+    "address": "9882 S Santa Monica Blvd, Beverly Hills, CA 90212",
+    "phone": "(310) 551-2888",
+    "fid": "0x80c2bbf5e7cc85a3:0x2f351fbbd50aab48",
+    "prices": [
+        {
+            "title": "The Peninsula Beverly Hills",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/bbc14b52-d99d-4287-9e94-e042a4fe2d56.png",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAXGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYASABEgIw4vD_BwE&sig=AOD64_1ZZgGr5WQKmyBGrD66bahwfqqurA&adurl",
+            "price_obsolete": true,
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Expedia.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/ac238c97-1652-4830-8da8-bb8d8883af88.png",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAaGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiABEgLOx_D_BwE&sig=AOD64_2EwO6aiTE7NeqhYzS2t0T9SdDY-Q&adurl",
+            "price_obsolete": true,
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "rooms": [
+                {
+                    "title": "Deluxe Room, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAbGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiACEgI4J_D_BwE&sig=AOD64_2jpD7m86p5u0d05Gdxko58fvTmFA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Deluxe Room, 2 Double Beds",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w7TpG1F4i1N1RG9DFxydRu5Rx6yCBW02uUyUhiI4DwYwpuIBHwvmkhgROb4b3yriaRpqd-LntQ-qjtTFSxgF7yNMFTf1678vLTxA2B8BbLiYo9NFeAc7Z2kRG2QF1XDTDzqVvjFABgXzJdcEOPbHokgw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAcGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiADEgK5LvD_BwE&sig=AOD64_1xe_uv8LlOSzZ3o3aHvdH1I8-hZQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Patio Deluxe King",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAdGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAEEgKZh_D_BwE&sig=AOD64_2vAUczbaJHMPs7fpBsR_DcYvT9Uw&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Grand Room (Deluxe)",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w9ccVX7mzusyse2VE74njtKiVFn633hcSIEQfBZZGboEma9Kzjpnz81kg71FeNebVCKxudU0Obcd7JMaRFeTNVxSgz1kXC8PBoeVmuNBuAq_QSM7ZFuli_XObSaRTIBSuCpK9UfdCGx66ikrmJ1NuLYQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAeGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAFEgLxhPD_BwE&sig=AOD64_2LUb_lYC8Zl880AtOdM5CZM6nmGA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Studio",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w2UGqfMbCVMbufNx3ZLvTUIm23Llab53uN2-v1HQB6ou-tdbxZkhPSKkig5x9FgBl-fIuj3l0PRAAmaI0Bw3CNOUvqwJAu4GmL0a6zUPSUbiccqXTq4_LNDpMQGfTOexuUg6lddoKXDsltXoC9LTM6",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zYyNWe_khX6W7TSNzld3OQ83PHFSsezzz3klUtfzNpVpfwkEkaUFuLkjc04Bvfkszd9uRDGxOuRcbsPaVCHNzy-kSei1MxKbSvWYD61pPVohz4SYQ1iSMMsx8chDv5qtFHMQ1qDvu24_VONy0Fjigh",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAfGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAGEgLuuPD_BwE&sig=AOD64_0h-C-FHf8D-uyFy2rlIIsLGxl3UA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Beverly Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wLLbnnNdmwlmKAPboL80VtDXEr1fGkmkuSt7y__NmCxJWY5BJd3-OQNgetO03Rdo_22keS-Gdv9RdElO3736rw0gCakPWB9Wl0DrKDn0jpX246XJJyWFczioICyz1y7LUvBVS9Nyj0QSdGGqbKRluo"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAgGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAHEgLoK_D_BwE&sig=AOD64_0Qnw4bcfh2rZZ8E5bYr5vUPjxCSQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Superior Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wu1L5OnkfbXLqFxhvfSIrkTEE5Rjcp75_TicwnvrwtmQZ9ADjXgRGkW33rHZmumGux3Sv327afzI6FZJimytGjR9ZnvSDyUO5bh5VvfPuvVU9ZPRqU9y-uUDQY_j5JIqDztnfB9-m6imOzzspL8TuAJg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zVTwcTUGz092F3O88Eb21s3AC3yTIJ4dN0q0HzRoOnbZhE8Hs1VArvXuVaf_dZC8TAii8b0VKj083YTFegdKKMLN_MnaiA7Q_-QKmxD_F5Z25bBin9NJv6P47GCloySAYieNeo2aJ9xwl9-JK5cRg6"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAhGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAIEgICUPD_BwE&sig=AOD64_3t87cxABmhDzGzKQhvpN8aY_f6dw&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_z_ZrinqF4kRbVBIFuIsKnOUW3FAMhsWRLc0id67-N9DqTdksdhBMwI4vhoJca4BHmZHTZzuHVMbknjD4w1o4z3Daiy-9JNIhJDUhXY_TAENCEJzf4ub5pm8jht5pO-S0cUxc_EZgIhxXZ4t6w5Uy3Qwg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_whoCJujm6rdMidxgyFR9pqjYDWs1BWxvzZD7yJ1VreWfe9EcqgsNwlJBSAm0bUI3JFcMy_U-oKADjUeM3yPS5paPT9F95PGOiwjy3DvJKJOHqEHXwKdW4RhXXiid48uwSoBR-1ZumE6Pl2clOMUJA",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_yoIEyrsK95YT02VGwCHdsMb7UXwajYFJDUwkVSITMentT8VkwWUUeNNhWNe30V0syhQoflsU4v2JQc3hKL8yubq3dWxr3oQyW5fCUitcCN259XTTvheO9K5z9RdGL1oRStxphOZFMrwDcNiz6GFLWfhQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xdwszxl4jC5UfTNf3_-zr24n-vAZU6eknZAYljeOziFdrFW589z8G3rChKsMpNI_8kJ6thCSxksL6Rysi6g-NmqGVBkcd5GGTa-63cI83HqInViL6IvsI9QQlDRk4iv17H0HDDfXI9YWeoEmO179-RuQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAiGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAJEgJlXvD_BwE&sig=AOD64_0cJTtFx3gOxzbl_TQY4QChzGjC4Q&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "California Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x4J8yGFy1IshDUAMYMwsXfTYeZ01-M9jxkk-pujVSFcmXhOreTppgwcOpM9Wygs_5hvWco8apEJk-6-q_Mnt9i-zyC4fZ3qQf3Ge3kHhsh2gmt2IpRyEja58JP1gMPNIDGp7d3gh_qBAjoISvoF46X4g",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zyPopizc-9IP_fsJmcAWD9KmLP9XbnkKzWIDozC7OMwPCzObO-w6Ki2DF1lnL60TayZ8OxY48awQMTL3m8mXeoSllTyt6cvHiPS5gFfrFoX1sthic14SXsqadSJdorIPTpzXAfuSlFeQDW3P5fYf_Asw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAjGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAiAKEgJ5bPD_BwE&sig=AOD64_1Hdp08k6aB9rAY6OeIlm6GoZzI4Q&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Hotels.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAMGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyABEgJ9o_D_BwE&sig=AOD64_1V9UekdlbmvSHFtjpGC8yTCO-dPQ&adurl",
+            "price_obsolete": true,
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "rooms": [
+                {
+                    "title": "Deluxe Room, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABANGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyACEgKvpPD_BwE&sig=AOD64_10vI5u1S7pU5Is1JUsN1C6PpxF7A&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Deluxe Room, 2 Double Beds",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w7TpG1F4i1N1RG9DFxydRu5Rx6yCBW02uUyUhiI4DwYwpuIBHwvmkhgROb4b3yriaRpqd-LntQ-qjtTFSxgF7yNMFTf1678vLTxA2B8BbLiYo9NFeAc7Z2kRG2QF1XDTDzqVvjFABgXzJdcEOPbHokgw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAOGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyADEgIZ7PD_BwE&sig=AOD64_1YF6BbciKMwKDGkJwygWKR923ZBw&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Patio Deluxe King",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAPGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAEEgLpqfD_BwE&sig=AOD64_3s5RQ2RjlO07LZocVTQiDc3VB1Dg&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Grand Room (Deluxe)",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w9ccVX7mzusyse2VE74njtKiVFn633hcSIEQfBZZGboEma9Kzjpnz81kg71FeNebVCKxudU0Obcd7JMaRFeTNVxSgz1kXC8PBoeVmuNBuAq_QSM7ZFuli_XObSaRTIBSuCpK9UfdCGx66ikrmJ1NuLYQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAQGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAFEgITmPD_BwE&sig=AOD64_3EpotxwjNu1qMNVMccT3EVyNzYug&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Studio",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w2UGqfMbCVMbufNx3ZLvTUIm23Llab53uN2-v1HQB6ou-tdbxZkhPSKkig5x9FgBl-fIuj3l0PRAAmaI0Bw3CNOUvqwJAu4GmL0a6zUPSUbiccqXTq4_LNDpMQGfTOexuUg6lddoKXDsltXoC9LTM6",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zYyNWe_khX6W7TSNzld3OQ83PHFSsezzz3klUtfzNpVpfwkEkaUFuLkjc04Bvfkszd9uRDGxOuRcbsPaVCHNzy-kSei1MxKbSvWYD61pPVohz4SYQ1iSMMsx8chDv5qtFHMQ1qDvu24_VONy0Fjigh",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABARGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAGEgJPSvD_BwE&sig=AOD64_2hXMglKZXzKzaXsjChdz1Zeyd9jQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Beverly Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wLLbnnNdmwlmKAPboL80VtDXEr1fGkmkuSt7y__NmCxJWY5BJd3-OQNgetO03Rdo_22keS-Gdv9RdElO3736rw0gCakPWB9Wl0DrKDn0jpX246XJJyWFczioICyz1y7LUvBVS9Nyj0QSdGGqbKRluo"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABASGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAHEgKf4vD_BwE&sig=AOD64_1zp44QcWZnBEl_nbUuIRAVGHXYrA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Superior Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wu1L5OnkfbXLqFxhvfSIrkTEE5Rjcp75_TicwnvrwtmQZ9ADjXgRGkW33rHZmumGux3Sv327afzI6FZJimytGjR9ZnvSDyUO5bh5VvfPuvVU9ZPRqU9y-uUDQY_j5JIqDztnfB9-m6imOzzspL8TuAJg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_yNJ9wSqFuJZN3z0RiTvCUbTuZr2U_lZ1wcvS9p1p1bl1iecrzzHOCff7fHgbhlit6XSjpeB_-XGoQ6rT6K5GvhPgrj8-C336jaqM-cpreBtkIy5slXrivRiCe0bX-CxmS8ZahRNoX2zPdLTybfMXWo1A",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zVTwcTUGz092F3O88Eb21s3AC3yTIJ4dN0q0HzRoOnbZhE8Hs1VArvXuVaf_dZC8TAii8b0VKj083YTFegdKKMLN_MnaiA7Q_-QKmxD_F5Z25bBin9NJv6P47GCloySAYieNeo2aJ9xwl9-JK5cRg6"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABATGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAIEgJkZPD_BwE&sig=AOD64_0sJL1Mh1LjIUVNnNVL_nafwfA45Q&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_z_ZrinqF4kRbVBIFuIsKnOUW3FAMhsWRLc0id67-N9DqTdksdhBMwI4vhoJca4BHmZHTZzuHVMbknjD4w1o4z3Daiy-9JNIhJDUhXY_TAENCEJzf4ub5pm8jht5pO-S0cUxc_EZgIhxXZ4t6w5Uy3Qwg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_whoCJujm6rdMidxgyFR9pqjYDWs1BWxvzZD7yJ1VreWfe9EcqgsNwlJBSAm0bUI3JFcMy_U-oKADjUeM3yPS5paPT9F95PGOiwjy3DvJKJOHqEHXwKdW4RhXXiid48uwSoBR-1ZumE6Pl2clOMUJA",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_yoIEyrsK95YT02VGwCHdsMb7UXwajYFJDUwkVSITMentT8VkwWUUeNNhWNe30V0syhQoflsU4v2JQc3hKL8yubq3dWxr3oQyW5fCUitcCN259XTTvheO9K5z9RdGL1oRStxphOZFMrwDcNiz6GFLWfhQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xdwszxl4jC5UfTNf3_-zr24n-vAZU6eknZAYljeOziFdrFW589z8G3rChKsMpNI_8kJ6thCSxksL6Rysi6g-NmqGVBkcd5GGTa-63cI83HqInViL6IvsI9QQlDRk4iv17H0HDDfXI9YWeoEmO179-RuQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAUGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAJEgJKzPD_BwE&sig=AOD64_0t8PsIZIVkbCm_T3GficCfauDO4Q&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "California Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x4J8yGFy1IshDUAMYMwsXfTYeZ01-M9jxkk-pujVSFcmXhOreTppgwcOpM9Wygs_5hvWco8apEJk-6-q_Mnt9i-zyC4fZ3qQf3Ge3kHhsh2gmt2IpRyEja58JP1gMPNIDGp7d3gh_qBAjoISvoF46X4g",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_yNJ9wSqFuJZN3z0RiTvCUbTuZr2U_lZ1wcvS9p1p1bl1iecrzzHOCff7fHgbhlit6XSjpeB_-XGoQ6rT6K5GvhPgrj8-C336jaqM-cpreBtkIy5slXrivRiCe0bX-CxmS8ZahRNoX2zPdLTybfMXWo1A",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zyPopizc-9IP_fsJmcAWD9KmLP9XbnkKzWIDozC7OMwPCzObO-w6Ki2DF1lnL60TayZ8OxY48awQMTL3m8mXeoSllTyt6cvHiPS5gFfrFoX1sthic14SXsqadSJdorIPTpzXAfuSlFeQDW3P5fYf_Asw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAVGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYAyAKEgI_GPD_BwE&sig=AOD64_2Q8YblSHiAa9-BhKKNiGVTimufxA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Travelocity.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_185.png",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABABGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCABEgL6NPD_BwE&sig=AOD64_2oUGaV862KrCCF8xNVMpXX_X4_RA&adurl",
+            "price_obsolete": true,
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "rooms": [
+                {
+                    "title": "Deluxe Room, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABACGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCACEgJiyfD_BwE&sig=AOD64_0zv-1kLxRHHtRdXTZZcSZECqavyQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Deluxe Room, 2 Double Beds",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w7TpG1F4i1N1RG9DFxydRu5Rx6yCBW02uUyUhiI4DwYwpuIBHwvmkhgROb4b3yriaRpqd-LntQ-qjtTFSxgF7yNMFTf1678vLTxA2B8BbLiYo9NFeAc7Z2kRG2QF1XDTDzqVvjFABgXzJdcEOPbHokgw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABADGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCADEgLmDvD_BwE&sig=AOD64_3ZRTXlj1ckrZ20Xz0lgQxPIRE1cQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1005,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1145,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Patio Deluxe King",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x7UKEfCxMjKX_ijVpxRxEvQonxp_OtB4e3vmcCw3VulZw05kheMIcfscyxPzwGP3w-5wNiKor7eIrv25EXthE-I37_Q9M9tIObUfpQKDPTTBbL2afJv9IqecBzrB4FSYJp6mNDDJ241cKjEu43xS8zGQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAEGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAEEgJK9fD_BwE&sig=AOD64_1rmH8lsBvTsckL38OiRv1-69DnqQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1046,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1192,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Grand Room (Deluxe)",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w9ccVX7mzusyse2VE74njtKiVFn633hcSIEQfBZZGboEma9Kzjpnz81kg71FeNebVCKxudU0Obcd7JMaRFeTNVxSgz1kXC8PBoeVmuNBuAq_QSM7ZFuli_XObSaRTIBSuCpK9UfdCGx66ikrmJ1NuLYQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAFGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAFEgJCdvD_BwE&sig=AOD64_1AjP03mPz9kil7fRBuVh9v9empdA&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1148,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1308,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Studio",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_w2UGqfMbCVMbufNx3ZLvTUIm23Llab53uN2-v1HQB6ou-tdbxZkhPSKkig5x9FgBl-fIuj3l0PRAAmaI0Bw3CNOUvqwJAu4GmL0a6zUPSUbiccqXTq4_LNDpMQGfTOexuUg6lddoKXDsltXoC9LTM6",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zYyNWe_khX6W7TSNzld3OQ83PHFSsezzz3klUtfzNpVpfwkEkaUFuLkjc04Bvfkszd9uRDGxOuRcbsPaVCHNzy-kSei1MxKbSvWYD61pPVohz4SYQ1iSMMsx8chDv5qtFHMQ1qDvu24_VONy0Fjigh",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_znQwVl41_ouSbhYsTQpQca6H5FmQK3uoP09wqDyIkuUhmZSqLDanzvIQzj0GGD4gDXwXgnea_2ATrGhUKqWIszSSxOBNJ3Q5NaYIPzAM3qFTqAbLdNzEJVxqMvWNB-WKEOlRDOqBNQmlIGLd-A8KUEXw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAGGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAGEgL_f_D_BwE&sig=AOD64_2-P9jdqDHQHLym_ZFVN-nvo98RyQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 1301,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 1483,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Beverly Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zGgDbm9XcO57tMqQ8fSpZ5vfVJ1woAO1e-ORZoYVtlzrcOaTCRXeaOSc0v0b1YHws-jX5Dq0E5GXqZ7SFsXLcuscG2KOiCTf6u7kWA5e1Jk9wQ67mw-NcR4iuGKuDY-hmPHMYb2YdrXd5081qyCWBIEw",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wLLbnnNdmwlmKAPboL80VtDXEr1fGkmkuSt7y__NmCxJWY5BJd3-OQNgetO03Rdo_22keS-Gdv9RdElO3736rw0gCakPWB9Wl0DrKDn0jpX246XJJyWFczioICyz1y7LUvBVS9Nyj0QSdGGqbKRluo"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAHGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAHEgKjv_D_BwE&sig=AOD64_2Sk0M0hs2iZoedXgBi1a26HCuM4g&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2193,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2500,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Superior Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_wu1L5OnkfbXLqFxhvfSIrkTEE5Rjcp75_TicwnvrwtmQZ9ADjXgRGkW33rHZmumGux3Sv327afzI6FZJimytGjR9ZnvSDyUO5bh5VvfPuvVU9ZPRqU9y-uUDQY_j5JIqDztnfB9-m6imOzzspL8TuAJg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zVTwcTUGz092F3O88Eb21s3AC3yTIJ4dN0q0HzRoOnbZhE8Hs1VArvXuVaf_dZC8TAii8b0VKj083YTFegdKKMLN_MnaiA7Q_-QKmxD_F5Z25bBin9NJv6P47GCloySAYieNeo2aJ9xwl9-JK5cRg6"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAIGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAIEgJI7_D_BwE&sig=AOD64_0upRBQZFo3e7e9z4qM5lFfpK-KHQ&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2346,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2674,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "Villa Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_z_ZrinqF4kRbVBIFuIsKnOUW3FAMhsWRLc0id67-N9DqTdksdhBMwI4vhoJca4BHmZHTZzuHVMbknjD4w1o4z3Daiy-9JNIhJDUhXY_TAENCEJzf4ub5pm8jht5pO-S0cUxc_EZgIhxXZ4t6w5Uy3Qwg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_whoCJujm6rdMidxgyFR9pqjYDWs1BWxvzZD7yJ1VreWfe9EcqgsNwlJBSAm0bUI3JFcMy_U-oKADjUeM3yPS5paPT9F95PGOiwjy3DvJKJOHqEHXwKdW4RhXXiid48uwSoBR-1ZumE6Pl2clOMUJA",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_yoIEyrsK95YT02VGwCHdsMb7UXwajYFJDUwkVSITMentT8VkwWUUeNNhWNe30V0syhQoflsU4v2JQc3hKL8yubq3dWxr3oQyW5fCUitcCN259XTTvheO9K5z9RdGL1oRStxphOZFMrwDcNiz6GFLWfhQ",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xdwszxl4jC5UfTNf3_-zr24n-vAZU6eknZAYljeOziFdrFW589z8G3rChKsMpNI_8kJ6thCSxksL6Rysi6g-NmqGVBkcd5GGTa-63cI83HqInViL6IvsI9QQlDRk4iv17H0HDDfXI9YWeoEmO179-RuQ"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAJGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAJEgINWPD_BwE&sig=AOD64_0aR1FJaU958rkJoa-UzTuhut6fpg&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 2448,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 2791,
+                        "currency": "USD"
+                    }
+                },
+                {
+                    "title": "California Suite, Suite, 1 King Bed",
+                    "pictures": [
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_x4J8yGFy1IshDUAMYMwsXfTYeZ01-M9jxkk-pujVSFcmXhOreTppgwcOpM9Wygs_5hvWco8apEJk-6-q_Mnt9i-zyC4fZ3qQf3Ge3kHhsh2gmt2IpRyEja58JP1gMPNIDGp7d3gh_qBAjoISvoF46X4g",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_xcCUhrF_ZANEAsXpziVTysMvtLyZQS6wol_UoGnGCFaDRwUQX5ESRmVxS828q1RuMFb__TdiSdTZPOU59x_oannFVnQ7vz-mxbVwT98m8idoL1W2-21sWMv2LPVuDSa4RzEowP0gIQOS_J91FhzWrnCg",
+                        "https://lh3.googleusercontent.com/hrppk/ANjXD_zyPopizc-9IP_fsJmcAWD9KmLP9XbnkKzWIDozC7OMwPCzObO-w6Ki2DF1lnL60TayZ8OxY48awQMTL3m8mXeoSllTyt6cvHiPS5gFfrFoX1sthic14SXsqadSJdorIPTpzXAfuSlFeQDW3P5fYf_Asw"
+                    ],
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGjZjSr4aMAxVzK9QBHVa3GmIYABAKGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMIxo2Y0q-GjAMVcyvUAR1WtxpiEAoYBCAKEgLKwPD_BwE&sig=AOD64_0rZ40p8xXh_U1vpDFWnSZudhpc-g&adurl",
+                    "free_cancellation": true,
+                    "price": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "price_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    },
+                    "cost": {
+                        "value": 3009,
+                        "currency": "USD"
+                    },
+                    "cost_with_tax": {
+                        "value": 3430,
+                        "currency": "USD"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "The Peninsula Beverly Hills",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/bbc14b52-d99d-4287-9e94-e042a4fe2d56.png",
+            "link": "https://linkcenter.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode=PENINSULA-12600&providerHotelCode=PENINSULA-12600&checkInDate=2025-03-17&checkOutDate=2025-03-18&identifier=dh-google&price=1145.36&roomTypeCode=BDK&ratePlanCode=PGPREM&currency=USD&userCurrency=USD&language=en&userCountry=US&testClick=false&sitetype=localuniversal&deviceType=desktop&priceDisplayedTax=160.36&priceDisplayedTotal=1145.36&partnerId=derbysoft&campaignid=&userlistid=&ifDefaultDate=default&isPromoted=false&s_is_ad=false&adults=2&children=0&clk_src=&is_ds_account=true",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Super.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/cfa60c4a-13cd-46d3-9354-ec90c89ec855.png",
+            "link": "https://www.super.com/travel/transition/?data=price=871.69%26total_price=993.73%26retail_price=994.75%26retail_total_price=1134.02%26surcharge=24.05%26request_id=73d2cda8-f605-4f6b-9156-386f5d4c7ce9%26ps=51962549793624952%26pp=B5Vk8mMvos_wtAiDRb2Ulw%26pb=wPc_hUTOoTtKJGDPssk2b8UWz1LgBWEjp03LH_FEJTfHzXv5x3ZOTxF_QN9d_i-7C5Uq40rVPeCzzMzlnzaP8CLGHwbE57j18rTOVRKMbeLR6pc7igUKagvbqcI4xnR5_RHL6FNYIA5a7uz3URQZLO1A3lqjt1-GmOaW6uYg8Ny7ww0-NfCuJ6zf_3X16g46sjSkLx3mKN7SlLTuxdWwLM8g3NhUlS3rd98b9Z_Q2vW8WJOrJrFVNvBK5pYKqX2yx03YinaKZF0EZ3n0C0JdnCPm-DUBCqewR2N8a0uVy2rK7kFuRBY2K2p31nmrPFjr5Y6DPvS5HMplPj5Pb6wu4w-UHOuQimY3sdZ5oQSVWQ4%253D%26gha_pull_request=True%26rtp=SdTUqdR7wIew8aRS9esAtw%253D%253D%26risk_lk_1=true%26alwd_risk=false%26alwd_rand=false%26gt=1741841471%26sg=qMqH7%26sid=D4%26ttl_bkt=control%26impr_timeout=false&utm_source=gha&utm_content=localuniversal&currency=USD&user_country=US&verification=false&rate_rule_ids=&date_type=default&rate_rule_id=signedout_desktop&display_currency=USD&display_all_inclusive_price=1017.78&checkin_at=2025-03-17&checkout_at=2025-03-18&provider_hotel_id=10004076234&provider=ean&num_adults=2&children=[]&hotel_campaign=&utm_campaign=&user_locale=en-US&user_list_id=&utm_medium=organic&utm_id=gha_organic",
+            "price": {
+                "value": 896,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1018,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 896,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1018,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Hotels In America",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/c9fb6c49-176b-456a-ac88-6863fabafa64.png",
+            "link": "https://www.hotelsinamerica.com/transition/?data=price=913.44%26total_price=1041.32%26retail_price=994.75%26retail_total_price=1134.02%26surcharge=24.05%26request_id=86f8d938-bdc4-47a6-9eb7-2dbcab5bc84c%26ps=51962549793624952%26pp=L7BSn8vi9bKrpx8v2vP3WQ%26pb=N37qbMTtZIywgXznOK-e-9h13JWzeyOiU4HcCZKZf7y--wSvCe25j6GyzJ3jpRfBqaoeWPtPXRjwqQrWyUEQXF1c9TYDYPciZFjtN4JBpDtAS2SjiQB7gZ4HysdvWGuAogDjWbF260k3nxaoardFAfDedsNFgj89zfmkGZFD-ExUmlTvvuuoLUBUUJ9gE11Nors_8YokNyHUoCmDoSW3Mn30D9XZJ9S1wx26jM7crFQ8YtEJRnfmwC3LgySR9pDymdmHJlFnoXK8RJyyZbZKyRUPu9Z40qcXA_ZqDj90FJ7N4aaHQis-pHvX8yXrmvB2%26gha_hia_pull_request=True%26rtp=SdTUqdR7wIew8aRS9esAtw%253D%253D%26risk_lk_1=false%26alwd_risk=false%26alwd_rand=false%26gt=1741842162%26sg=dvLP5%26ttl_bkt=control%26impr_timeout=false&utm_source=gha_hia&utm_content=localuniversal&currency=USD&user_country=US&verification=false&rate_rule_ids=&date_type=default&rate_rule_id=signedout_desktop&display_currency=USD&display_all_inclusive_price=1065.37&checkin_at=2025-03-17&checkout_at=2025-03-18&provider_hotel_id=10004076234&provider=ean&num_adults=2&children=[]&utm_campaign=&user_locale=en-US&user_list_id=&utm_medium=organic&utm_id=gha_hia_organic",
+            "price": {
+                "value": 937,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1065,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 937,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1065,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "trivago DEALS",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/8670591202796644526.png",
+            "link": "https://www.trivago.deals/hotels/united-states-of-america_ca_beverly-hills/119561_the-peninsula-beverly-hills?checkIn=2025-03-17&checkOut=2025-03-18&placeId=H119561&campaignName=TrivagoDeals_Google_US&currencyCode=USD&dealKey=CAEQjQYaA1VTRCIMCP_Iyb4GEJjJkusBKloNAACGRBUAwHpEGgNVU0Ql7BEBQy32KKhBMAE4eEUAAIZESgwI_8jJvgYQ4Pu2iQFSAlJPWgEwYhREZWx1eGUgMiBEb3VibGUgQmVkc2gBcCWCAQCNATP7hUQ4iaYHQM2jD0gBUgihKFdZdev77w&countryCode=US&languageCode=en&rule=Google_US&site=localuniversal&ads=&origin=31&priceDisplayedTotal=1072.00&priceDisplayedTax=150.09&device=desktop&adults=2&children=0",
+            "price": {
+                "value": 1072,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1072,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Traveluro",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/aa5293d0-1acc-4289-ab28-fe6381cfbe5a.png",
+            "link": "https://www.traveluro.com/hotel/119561?start_date=2025-03-17&end_date=2025-03-18&num_rooms=1&ts=Google_US&curr=USD&data_key=MTA3Ml9VU0RfMTIwXzEwMDNfR29vZ2xlMl8yMDI1LTAzLTEzIDA0OjE1OjIxX1JPX1lfXzBfREVTS1RPUF9fMTAwM19VU0RfMjAyNS0wMy0xMyAwNDoxNToyMl85MjJfVVNE&mfa_data_key=&PT=1072.00&PTF=150.09&device=desktop&party=[]&user_country=US&user_lang=en&num_adults=2&site=localuniversal&rule=Google_US&ads=&PPA=0&DD=1",
+            "price": {
+                "value": 1072,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1072,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Splitty",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/cad27f4f-8da9-420b-ba3b-f77a1a2d9c4f.png",
+            "link": "https://www.splitty.com/hotels/united-states-of-america_ca_beverly-hills/119561_the-peninsula-beverly-hills?checkIn=2025-03-17&checkOut=2025-03-18&placeId=H119561&campaignName=GoSplitty_Google_US&currencyCode=USD&dealKey=CAEQ2AIaA1VTRCIMCLDFyb4GELT6qYoDKlkNACCGRBUAwHpEGgNVU0QlpDABQy3sUahBMAE4eEUAIIZESgsI5LnJvgYQnLGkP1ICUk9aATBiFERlbHV4ZSAyIERvdWJsZSBCZWRzaAFwJYIBAI0BhRuGRDCNBjiJpgdAzaMPSAFSCNMvvyFN8TeM&countryCode=US&languageCode=en&rule=Google_US&site=localuniversal&origin=31&ads=&priceDisplayedTotal=1073.00&priceDisplayedTax=150.23&device=desktop&adults=2&children=0",
+            "price": {
+                "value": 1073,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1073,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Booking.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+            "link": "https://www.booking.com/hotel/us/the-peninsula-beverly-hills.html?checkin=2025-03-17&checkout=2025-03-18&group_adults=2&req_adults=2&show_room=18337811_359224494_4_0_0&lang=en&selected_currency=USD&exrt=1.00000000&ext_price_total=1145.36&ext_price_tax=160.36&xfc=USD&hca=m&group_children=0&req_children=0&&no_rooms=1&ts=1741839900&edgtid=CTODF8lxSeCD2PPRjzpFqg&efpc=mFsAoRRbNqI&utm_source=metagha&utm_medium=localuniversal&utm_campaign=US&utm_term=hotel-183378&utm_content=dev-desktop_los-1_bw-5_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250317_ppt-&aid=2127486&label=metagha-link-LUUS-hotel-183378_dev-desktop_los-1_bw-5_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250317_ppt-",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Skyscanner",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/1264b392-0c69-44ec-8922-271868c67545.png",
+            "link": "https://www.skyscanner.net/hotels/search?entity_id=128474980&upsort_hotels=128474980&adults=2&checkin=2025-03-17&checkout=2025-03-18&currency=USD&market=US&device=desktop&utm_medium=hpa&utm_source=google_free&utm_campaign=google_free_click&associateID=SEM_GGH_01975_00033&source=GoogleHpa&hpa_verification=false&trace_info=vHJ1t6cnBZAtDguNne9IfyfLRr3dhzqVCtQOaOWBJNKs6UswD8MShgeFe0fs8f1a8SLBkxw1BrtygoayTJkN6NwdXvh0WJ1-YpOxmxJehFzKLiC1KqAF4flIMkAN-shtgTUnHajW_2T5m_DR1wWYvZb6or9lKpf0oGdNfNrKhFKnHg==&user_country=US&extra_trace_info=&hotel_campaign=&gclid={gclid}&date_type=default",
+            "price": {
+                "value": 1105,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1105,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Holisto",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/80cb6d80-8e27-46ee-a821-92e9ee778e55.png",
+            "link": "https://www.holisto.com/hotels/united-states-of-america_ca_beverly-hills/119561_the-peninsula-beverly-hills?checkIn=2025-03-17&checkOut=2025-03-18&placeId=H119561&campaignName=Holisto_Google_US&currencyCode=USD&dealKey=CAEQoQUaA1VTRCIMCN3Byb4GEIDBmsMCKlkNACCGRBUAwHpEGgNVU0QlpDABQy3sUahBMAE4eEUAIIZESgsI5LnJvgYQnLGkP1ICUk9aATBiFERlbHV4ZSAyIERvdWJsZSBCZWRzaAFwJYIBAI0BhRuGRDCNBjiJpgdAzaMPSAFSCEHLkZctwJvJ&countryCode=US&languageCode=en&rule=Google_US&site=localuniversal&ads=&origin=31&priceDisplayedTotal=1073.00&priceDisplayedTax=150.23&device=desktop&adults=2&children=0",
+            "price": {
+                "value": 1073,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1073,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Evendo",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/17146812660057606236.png",
+            "link": "https://evendo.com/stays/the-peninsula-beverly-hills/83300209?check_in=2025-03-17&check_out=2025-03-18&who=%5B%7B%22adults%22:2,%22children%22:%5B%5D%7D%5D&currency=USD&language=en&utm_source=google&utm_medium=googlehotels&utm_campaign=localuniversal",
+            "price": {
+                "value": 1232,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1232,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Blowwow.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/41cc42a8-801d-4a2c-885e-d0ca0f7f7324.png",
+            "link": "https://blowwow.com/hotel-search?adults=2&checkIn=2025-03-17&checkOut=2025-03-18&children=0&childrenAges=&hotelCode=&hotelId=207798&rooms=1",
+            "price": {
+                "value": 1204,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1204,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Vio.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/0a94aea5-2080-4e1a-971b-c5da9d06fc63.png",
+            "link": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FcheckIn%3D2025-03-17%26checkOut%3D2025-03-18%26curr%3DUSD%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dgha%26utm_medium%3Dcpc%26hotelId%3D92293995%26userCountry%3DUS%26profile%3Dr2d2m73kn8%26preferredRate%3D1144.66%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dlocaluniversal%2526ucountry%253DUS%2526udevice%253Ddesktop%2526hotel%253D92293995%2526day%253D17%2526month%253D03%2526year%253D2025%2526los%253D1%2526price%253D1144.66%2526currency%253DUSD%2526cid%253D%2526listid%253D%2526rateid%253DUS%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3DfGVXQr5u12ICgtPVVc5MmZ3cW9lcxjWt8m-BiACONmpoKcMQiEItZTThMTR4bcuEMSBBhiAESDeayoDVVNEMAE4xKjYvgY",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Expedia.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/ac238c97-1652-4830-8da8-bb8d8883af88.png",
+            "link": "https://www.expedia.com/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&MDPCID=US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.17768.20250317.20250318.DDT.5.CID..AUDID..RRID.bex_us_desktop&mctc=10&ct=hotel&mpg=USD&mpf=1145.36&mpj=160.36&mpl=USD&exp_pg=google&langid=en&ad=2&tp=&utm_source=google&utm_medium=cpc&utm_term=17768&utm_content=localuniversal&utm_campaign=HotelAds&langid=1033&adults=2&children=&rateplanid=222035694&mpm=24&mpn=201316418&mpo=EC&mpp=1",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Hotels Ugogo",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/7738061d-39a7-44cb-b511-bcc8c6aa33c6.png",
+            "link": "https://hotelsugogo.com/property/147466?rooms=1&currency=USD&withTaxes=&startDate=17-03-2025&endDate=18-03-2025&occupancies=[]&utm_source=google&utm_medium=HAC&utm_content=17_03_2025_1_localuniversal_147466_US_desktop_default___2&tp=1113.00&tt=172.00&sup=NDBC&flow=2WUMQfouPmC%2BODBP%2FMXCBPA%2BNTAubN5GIDpMi8DJyUJpD%2FIEySokWZrfrTjZ3nNhKaDMzP%2BRglqiTU5u9UzZnaKQewx4XXV2sbs1frsciC1SiPjPpZ2a0b9dQwmddeOr%2B%2F5CzyZBRW%2Ba7BNv2N8QED6RWop%2BA8oh85XAVrFpRXi1%2F0rafL2mf%2Bk%2B4EO84UvoYSQthx4SOba7M6HONp9vIyHp1xfUgwgUc6fnAAI8iVY%3D&room=Z-8T1pIlfPE",
+            "price": {
+                "value": 963,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1113,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 963,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1113,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "KAYAK.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/6417d44c-c676-4b16-8ae9-f3bbeaa51899.png",
+            "link": "https://www.kayak.com/semi/ha/hotel_ads/22708/en.html?utm_source=google&utm_medium=cpc&utm_term=22708&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2025-03-17&co=2025-03-18&gs=localuniversal&l=1&pc=USD&rid=free_cancel&pdtax=159.66&pdtotal=1144.66&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=&k_pc=~QUdPREFIUEE&k_rt=&k_sid=quCEMoOi_A&k_kct=1741834778&k_gct=1741835240&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Trip.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/b8089cb0-34b4-458c-8749-9bc4614baba4.png",
+            "link": "https://us.trip.com/hotels/redirect?hotelid=1000813&city=93834&shoppingid=Mu3VnXWz_9-y&adult=2&children=0&ages=&checkin=2025-03-17&checkout=2025-03-18&curr=USD&Allianceid=15214&Sid=1209572&prid=LANG_US&trip_sub1=17_03_2025_1_localuniversal_1000813_US_desktop_default___0_0-LANG_US-landing&hpaopts=stand[H4sIAAAAAAAA_-Ny5mKSYBJi4mCUsuSYvnb6M1YhRiOD96wWV_0COGYwvu2yXcHIuIOR6SIjAwic6HN4yGjLdX1xwdOJDi8YW640Mi9gYZTi8S01DsuLCK-Kt9StVGDUOLLp5D42D8YgNhdLc0tHsygZLubQYBdBe9O4XZ5vZBykQDxFGC-JNTVPNzQ447ZgFyOTB-MqRnYuZgMjQwGmT4z8yObGG5oAAITwzmWuAAAA]fgt[1]&br=1145.36&tf=160.36&display=exavg&locale=en_us&crn=1&roomid=1556469399&allianceid=15214&sid=1209572",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Priceline",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_220.png",
+            "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP%7C41112_localuniversal_1%7C20250317%7Cdesktop%7Cdefaultdate|public|||5%7C2%7C0|0|EN&hotelid=41112&checkin=20250317&checkout=20250318&rooms=1&currency=USD&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=3000001489&adults=2&land=L&metaid=CI0FpbVYXUqhqScsNC2nmHXNiDjqf844BTCCUKuUGZtLgKl1E86ILIJGXAneyZ8uzAvfSVeGEFsuWZjNoD4luXMAXggNscJRiDmnCxNXkArNDEP5KsWjyBhK72rkQQdjvYgu883x2Llv5t5DfVbgAQJfK-jTeXOL3h_8PdqC6NXLoOrPfT6TXQBhT8JQG4ePTHGtVQjYjPWdzssa6ZOQw4lnTxACVOh_w2er9xt63q1JKdcEVIAKsvsuFeHNtGpxqF1es3Wx0EMOzpzttv4-heqtAyRQidVR5a7tMmi2g5fQtiX1pCL9PJwm2IUYiraR&dblcnt=true&user_num_adults=2&pdtax=159.66&pdt=1144.66&locale=en-us&ad-src=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Tripadvisor.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/6dcb5a28-6742-4ce4-9beb-07c31138a20b.png",
+            "link": "https://www.tripadvisor.com/Hotel_Review-s1-?geo=1&detail=76020&m=66081&staydates=2025_03_17_2025_03_18&uguests=1_2&supdv=desktop&supbl=localuniversal&supkl=default&supuc=US&supul=en&supia=0&supip=0&supmb=BcSgTabKHMwm_Pxc9R1evO7tt3DdFjzGOCFRs_6zkrlNROP3L-Mu4SBMWlf-Y8kzZEJqAezhjmFfGm2g3K9AEpw_mhaQZQAH-0jg0_Jv-vCznXGtX-juZQSJgpIxU92BvTMNWbToKcUqLXd6wsX5nO8hP7oISHtKBHOmoG7kG5QR9RiwX8lA1Bg-n9E1E_&supmc=cb8Wx7JdILzbFoQKk-NrHP-5qmCCWHrafmKFRAQVFdspETTxdvpOr8o60efu8Mbw1UzquXTKCC8HR3q3cv4&supts=&supey=m|115991|PL_GPC_local&supcd=&suptp=aZYA0zv3fgOeHaFAABEBIznuo2xyToGgGWYdsvwlhAtpEm7B6XHbwt9qQZhwSTs0mZkP0dYGCB4gDHC9tN3EnO94ppuZYACDHWXt5RdiQdNNngL5Qz-Ii0olu-6ozjthKytxz8uXvd2qofUaJWvkcurbHDtkGPX1MNhoMtVtORn3wtLyNttGBlS4TiKAuJ",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Hotels.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
+            "link": "https://www.hotels.com/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&mdpcid=HCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.17768.20250317.20250318.DDT.5.CID..AUDID.&adults=2&children=&mctc=10&mpf=1145.36&mpg=USD&mpl=USD&mpj=160.36&rffrid=sem.hcom.US.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.17768USen-20250317-D-ABW=5-camp=-aud=-N&rateplanid=222035692&mpm=24&mpn=201316417&mpo=EC&mpp=1&locale=en_US&siteid=300000001",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Stayforless",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/5e9e74c0-8ac7-4c7b-a62b-b655379dadff.png",
+            "link": "https://stayforless.com/property/147466?rooms=1&currency=USD&withTaxes=&startDate=17-03-2025&endDate=18-03-2025&occupancies=[]&utm_source=google&utm_medium=HAC&utm_content=17_03_2025_1_localuniversal_147466_US_desktop_default___2&tp=1113.00&tt=172.00&sup=NDBC&flow=ZH4zpLnQW7R5gX%2Fr%2F1PoMhsKoY1o%2F0I3qf3JpI%2F7KeB65arn6fP1pONjNHHYrxcNAa2FH6GwpicZhcIGbvr1TU0yaCWI%2FNJSgbhuChFMu%2BQKafN83iHUFpgzPfJ61LrohLNVK3ti%2FaT9jKeYAmJRBAzZE5jt6VrUMxAj2PM3SZ66LUSktxANWh%2BsNgSRTdvEX5FBBBXNmDOuJOZ1Bl5voSCNfwPtJZ8lg4uWW07vOK4%3D&room=PPDhrh8ESIg",
+            "price": {
+                "value": 963,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1113,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 963,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1113,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Brek",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/5560284514445840289.png",
+            "link": "https://www.brek.com/search?lat=34.065843&lng=-118.410485&checkin=2025-03-17&checkout=2025-03-18&pinned=6475503f09317edd78e1e0fc&utm_source=gha&ep=7f51dcbc8ed03f8df50a8a49eb0402650b4317121fd8588f8540eb030997f910aa2e357289dd659052b5e2c32cc1765c4684fdc39e70da12c0fc2edb74c840bf&user_currency=USD&user_country=US&user_language=en&user_displayed_total=1145.36&user_displayed_tax=160.36",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Tripening Hotels",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/e2dd64ca-de9b-44d2-9706-b3227b0e9c40.png",
+            "link": "https://www.tripening.com/hotels/-/5269497-the-peninsula-beverly-hills?checkin-date=2025-03-17&checkout-date=2025-03-18&adults=2&currency=USD&lang=en&google-package-id=&rate-rule-id=&google-displayed-price=1222.50&children=0&google-displayed-tax=75.61&google-displayed-currency=USD",
+            "price": {
+                "value": 1199,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1223,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1199,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1223,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "goseek.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/4bb2e6d3-77b1-4306-8c69-5a97ce95ce39.png",
+            "link": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https%3A%2F%2Fwww.goseek.com%2FHotel%2FSearch%3FcheckIn%3D2025-03-17%26checkOut%3D2025-03-18%26curr%3DUSD%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dgha%26utm_medium%3Dcpc%26hotelId%3D92293995%26userCountry%3DUS%26profile%3Dr2d2m73kn8%26preferredRate%3D1144.66%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dlocaluniversal%2526ucountry%253DUS%2526udevice%253Ddesktop%2526hotel%253D92293995%2526day%253D17%2526month%253D03%2526year%253D2025%2526los%253D1%2526price%253D1144.66%2526currency%253DUSD%2526cid%253D%2526listid%253D%2526rateid%253DUS%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3DUSYo070acJ4Cgs5VkxDdjJ0WXFRVRj7t8m-BiADOJbmk5MIQiEItZTThMTR4bcuEMSBBhiAESDeayoDVVNEMAE4gKnYvgY",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "HomeToGo",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/5bde3665-f4fd-4468-b4bf-dee085aaacce.png",
+            "link": "https://www.hometogo.com/search/5460aeac4c267?arrival=2025-03-17&duration=1&id=z5cee779893edcb28%40f%40s&adults=2&tpp=qpfhfq.67d0f677&adword=ghf/us/z5cee779893edcb28/ct=hs/n-a/n-a/5460aeac4c267&utm_source=ghf&hl=en_US&ghf_acc=htg_ghf&c=USD&type[]=hotel&gValidation=false&gSite=localuniversal",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Qantas Hotels",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_660369587.png",
+            "link": "https://www.qantas.com/hotels/properties/19980?adults=2&checkIn=2025-03-17&checkOut=2025-03-18&utm_campaign=GoogleHotels&adType=0&utm_medium=organic-search&utm_source=Google-Hotels&utm_term=19980&hotelID=19980&hotel_campaign=",
+            "price": {
+                "value": 1143,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1143,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Prestigia.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_101283631.png",
+            "link": "https://www.prestigia.com/en/produit.php?idTarget=1547&arrivee=2025-03-17&depart=2025-03-18&pid=32&a=1000129&guestsParams=W3siYWR1bHRzIjoyLCJjaGlsZHJlbiI6MCwiYWdlcyI6W119XQ==&dev=3&verif=false&ad_click=false&campaign_id=&src=",
+            "price": {
+                "value": 1004,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1141,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1004,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1141,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Long Stay Discounts",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/6131123071209883889.png",
+            "link": "https://www.longstaydiscounts.com/transition/?data=price=994.75%26total_price=1134.02%26retail_price=994.75%26retail_total_price=1134.02%26surcharge=24.05%26request_id=20522aff-ec52-45d3-892e-5c1d3e01a784%26ps=4562811839800325764%26pp=pLqKAzq4qEA7syy94Lul2w%26pb=rvlMS2mBF_Yn5fvMeC_LYYPxajvq1_WjkZ8HlBNkY9UwGjkk9nPd57TkMHqcaeliQY-laIjrOart-3beg9GykFajYvB2fBt1bwc-DBWOmucJzqalqVPqlmmmgG9j6e3yQ_m8QRBahAEkxduIrhKO9P25DX9cA2WVyBtFl4oS6RW_q9ZQpOFotZYHtHiSyEsukdEOml93TedQFIG95xGwU6lSGhIHroeuEjstzYGNg-lHH5C_soc8PqillcLiSmvwhsmuVni-5qSzMhnVaHoqPA%253D%253D%26gha_lsd_pull_request=True%26rtp=SdTUqdR7wIew8aRS9esAtw%253D%253D%26risk_lk_1=false%26alwd_risk=false%26alwd_rand=false%26gt=1741840569%26sg=gpxyx%26ttl_bkt=control%26impr_timeout=true&utm_source=gha_lsd&utm_content=localuniversal&currency=USD&user_country=US&verification=false&rate_rule_ids=&date_type=default&rate_rule_id=signedout_desktop&utm_campaign=&display_currency=USD&display_all_inclusive_price=1158.07&checkin_at=2025-03-17&checkout_at=2025-03-18&provider_hotel_id=10004076234&provider=ean&num_adults=2&children=[]&user_locale=en-US&user_list_id=&utm_medium=organic&utm_id=gha_lsd_organic",
+            "price": {
+                "value": 1019,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1158,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1019,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1158,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Hotelscombined.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+            "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/22708/en.html?utm_source=google&utm_medium=cpc&utm_term=22708&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2025-03-17&co=2025-03-18&gs=localuniversal&l=1&pc=USD&rid=free_cancel&pdtax=159.66&pdtotal=1144.66&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=&k_pc=~QUdPREFIUEE&k_rt=&k_sid=quDkASpXCf&k_kct=1741834778&k_gct=1741835138&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "momondo.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_970163321.png",
+            "link": "https://www.momondo.com/semi/ha/hotel_ads/22708/en.html?utm_source=google&utm_medium=cpc&utm_term=22708&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2025-03-17&co=2025-03-18&gs=localuniversal&l=1&pc=USD&rid=free_cancel&pdtax=159.66&pdtotal=1144.66&rpid=&uc=US&ucuc=USD&d=desktop&lc=en&v=false&rrid=&k_pc=~QUdPREFIUEE&k_rt=&k_sid=quBEEeoWEb&k_kct=1741834778&k_gct=1741835140&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Closest Hotel",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/15292798194442829381.png",
+            "link": "https://closesthotel.com/googleRedirMainSearch.php?checkInYear=2025&checkInMonth=03&checkInDay=17&checkOutYear=2025&checkOutMonth=03&checkOutDay=18&numberOfNights=1&numberOfAdults=2&numberOfChildren=0&numberOfGuests=2&hotelID=17768&roomID=201316418&currency=USD&deviceType=desktop",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Travelocity.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_185.png",
+            "link": "https://www.travelocity.com/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&adults=2&children=&MDPCID=travelocity-US.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.17768.20250317.20250318.DDT.5.CID..AUDID..localuniversal&exp_curr=USD&exp_dp=1145.36&exp_tx=160.36&mctc=10&rateplanid=222035694&mpm=24&mpn=201316418&mpo=EC&mpp=1",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Wego",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/056bc8ad-af15-4ca3-b777-4ad816966428.png",
+            "link": "https://www.wego.com/hotels/searches/1683/2025-03-17/2025-03-18/143748?guests=2&wego_hotel_id=143748&bow_only=true&ts_code=2f2fc&wg_source=meta_distribution&wg_medium=gha&wg_campaign=fbl&ulang=en&wego_currency=USD&wego_price=VVNEOjExNDUuMzY6ODY2MDBhMDM2N2FhMWQzNGJlMjg4M2EyMTlhMGMxNmE5NjkwYjQ1MmU3OWFlNjBiMjliYTJmYTRiYTIwNWViZDpib29nbmlrNjlxc2E6MTc0MTgzNzkwMzpEOlVTOjU4ZGFmNWJmNGVlMGQ5MjA6MjowOnRydWU%3D&provider=aG90ZWxzLndlZ28uY29t",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "BringFido",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/43acfdaa-b8c3-4934-86a6-40269db7b0e1.png",
+            "link": "https://www.bringfido.com/lodging/65553?arrival=2025-03-17&departure=2025-03-18&adults=2&dogs=0&source=e&aid=googlehotels-localuniversal&channel=desktop&currency=USD&source=e",
+            "price": {
+                "value": 1039,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1039,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Orbitz.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+            "link": "https://www.orbitz.com/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&adults=2&children=&MDPCID=ORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.17768.20250317.20250318.DDT.5.CID..AUDID..localuniversal&exp_curr=USD&exp_dp=1145.36&exp_tx=160.36&mctc=10&rateplanid=222035694&mpm=24&mpn=201316418&mpo=EC&mpp=1",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Bluepillow.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+            "link": "https://www.bluepillow.com/checkout/59438a737c00cb0e643559dd?begin=2025-03-17&end=2025-03-18&block_id=-b,Dz8D2gjB9PSynTasbBih9yOBwwTO40K9D4fP1sZRkU7qvdIypuChmPAV5YDLd_CJ,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=localuniversal&utm_campaign=hotel&prid=",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Agoda",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+            "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=17&CkInMonth=03&CkInYear=2025&CkOutDay=18&campaignid=&CkOutMonth=03&CkOutYear=2025&SearchDateType=default&NumberOfAdults=2&LT=5&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=6564&RoomID=3061949&masterRoomId=3061949&PriceTax=159.66&PriceTotal=1144.66&RatePlan=2cc78b94-e4eb-0b09-ab68-80f418e79ea5&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=27912&booking_source=cpc&adType=0&mpt=Q1ZxVTU4TklMTjl3b1QxWUliVkFSRkhlWkk0NWoveVVGbzhGOFFEZ1hUUzBsdG1Ibk9HZEZBPT0&original_rr=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Stayforlong.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/b322e53d-e0bf-472d-a84a-9109628ca027.png",
+            "link": "https://www.stayforlong.com/hotel-detail/44369?checkin=2025-03-17&checkout=2025-03-18&adults=2&metadevice=desktop&aid=gha&market=us&lang=en&total=1123&query_type=pull&ch=0&adclick=free&defaultdate=true&googlesite=localuniversal&p=d4e58fe103d49111fed690236114c448&r=d26bd7943b44bb4b392ebe07df52ee0c&source=meta",
+            "price": {
+                "value": 1008,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1008,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Traveloka.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/cc46874d-c374-4a99-83c7-b6f79d0b19d3.png",
+            "link": "https://www.traveloka.com/en-en/hotel/search?spec=17-03-2025.18-03-2025.1.1.HOTEL_GEO.4005332921.California.2&hotelId=1000000141414&contexts=%7B%22accessCode%22:%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%225c059ad0-cdb1-4df2-9aad-a22ce6ce668b%22%7D&metasearchId=GoogleHotelAdsUser&metasearchRateId=USUsers&metasearchRatekey=sgyUU2M0LrnnpXh1LPwoI&priceDisplay=NIGHTLY&metasearchRefid=12345678910abcdefghijk@-&adType=0&PPA=0&hotelCampaign=1",
+            "price": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "CheapTickets.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/736aa480-c3ae-4b4d-ac2a-1c658f70d17a_%5BUngrouped%5D.png",
+            "link": "https://www.cheaptickets.com/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&MDPCID=CHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL&langid=1033&adults=2&children=&MDPDTL=htl.17768.20250317.20250318.DDT.5.CID..AUDID..localuniversal&exp_curr=USD&exp_dp=1145.36&exp_tx=160.36&mctc=10&rateplanid=222035694&rateplanid=222035694&mpm=24&mpn=201316418&mpo=EC&mpp=1",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "eDreams",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/05208793-cd83-4e8b-b76c-7ff346e093e3.png",
+            "link": "https://accommodation.edreams.net/Hotel-Search?selected=17768&startDate=2025-03-17&endDate=2025-03-18&adults=2&children=&mpf=1145.36&cur=USD&mpj=160.36&wapb3=|c.506950|l.en_US|t.meta|s.ghs&MDPCID=eDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL&mpl=USD&numberOfRooms=1&locale=en_US&rffrid=h4p.hcom.US.ghaodigeo.000.000.kwrd=&pos=EDREAMS_US&rateplanid=222035694&mctc=10&utm_medium=metasearch&utm_campaign=141414&utm_term=hotel&utm_source=FREEBOOKING",
+            "price": {
+                "value": 1031,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1031,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "Hotwire.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/icon_112.png",
+            "link": "http://www.hotwire.com/hotel/details/direct-retail-details?startDate=03/17/2025&endDate=03/18/2025&selectedExpediaHotelId=17768&numAdults=2&numChildren=0&sid=S537&bid=B381549&rpid=RPE17768&mctc=10",
+            "price": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1005,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1145,
+                "currency": "USD"
+            }
+        },
+        {
+            "title": "BusinessHotels.com",
+            "logo": "https://www.gstatic.com/travel-hotels/branding/7e9b18f5-dcd9-46e2-8bed-33a004b33995.png",
+            "link": "https://www.businesshotels.com/reservation.php?hotel-id=700256736&checkin-date=2025-03-17&checkout-date=2025-03-18&language=en&USER-CURRENCY=USD&USER-COUNTRY=US&NUM-ADULTS=2&NUM-CHILDREN=0&prid=",
+            "price": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "price_with_tax": {
+                "value": 1134,
+                "currency": "USD"
+            },
+            "cost": {
+                "value": 1007,
+                "currency": "USD"
+            },
+            "cost_with_tax": {
+                "value": 1134,
+                "currency": "USD"
+            }
+        }
+    ],
+    "reviews": {
+        "rating": 4.7,
+        "reviews_cnt": 1247,
+        "reviews_by_stars": {
+            "5 star": "1%"
+        }
+    }
+}

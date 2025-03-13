@@ -29,7 +29,7 @@ Learn how to scrape real-time hotel data from Google – one of the largest trav
 
 A quick-and-easy scraper for extracting Google Hotels data on a smaller scale.
 
-<img width="800" alt="free-google-hotels-scraper" src="https://github.com/user-attachments/assets/9e86aabe-c8b7-4286-946a-378cd98c81b3" />
+<img width="800" alt="free-google-hotels-scraper" src="https://github.com/luminati-io/google-hotels-api/blob/main/images/421713152-9e86aabe-c8b7-4286-946a-378cd98c81b3.png" />
 
 ### Setup
 
@@ -60,7 +60,7 @@ _Parameters:_
 💡 **Pro Tip:** Comment out the line `options.add_argument("--headless=new")` in the script to reduce detection by Google's anti-scraping systems.
 
 ### Sample Output
-<img width="800" alt="google-hotels-scraper-csv-output" src="https://github.com/user-attachments/assets/633afbf9-204e-444a-ac0f-23b8b72c5813" />
+<img width="800" alt="google-hotels-scraper-csv-output" src="https://github.com/luminati-io/google-hotels-api/blob/main/images/421731827-633afbf9-204e-444a-ac0f-23b8b72c5813.png" />
 
 
 ### Limitations
@@ -190,7 +190,7 @@ Bright Data's API supports many advanced parameters for fine-tuning your Google 
 
 ### Localization Parameters
 
-<img width="800" alt="bright-data-google-hotels-scraper-api-localization" src="https://github.com/user-attachments/assets/d47254c1-0c7f-4572-bf54-f3f55cf66908" />
+<img width="800" alt="bright-data-google-hotels-scraper-api-localization" src="https://github.com/luminati-io/google-hotels-api/blob/main/images/422299775-d47254c1-0c7f-4572-bf54-f3f55cf66908.png" />
 
 
 These parameters define the country and language of the search:
@@ -209,7 +209,7 @@ curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-<customer-id>-zon
 
 ### Booking Parameters
 
-<img width="800" alt="bright-data-google-hotels-scraper-api-booking-params" src="https://github.com/user-attachments/assets/74faadf7-218b-4fa3-b2d9-d0cecf8e23e6" />
+<img width="800" alt="bright-data-google-hotels-scraper-api-booking-params" src="https://github.com/luminati-io/google-hotels-api/blob/main/images/422303757-74faadf7-218b-4fa3-b2d9-d0cecf8e23e6.png" />
 
 These parameters help refine results based on dates, number of guests, free cancellation, and accommodation type:
 

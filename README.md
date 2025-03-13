@@ -49,7 +49,7 @@ pip install pandas tqdm selenium beautifulsoup4 webdriver-manager
 **Note**: If you're new to web scraping, we recommend starting with our [Python web scraping for beginners tutorial](https://brightdata.com/blog/how-tos/web-scraping-with-python) or our [Guide to Web Scraping With Selenium](https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping).
 
 ### **Usage**
-Run the [google-hotels-scraper.py](https://github.com/triposat/Google-Hotels-Scraper/blob/main/google-hotels-scraper/google-hotels-scraper.py) script with the required parameters:
+Run the [google-hotels-scraper.py](https://github.com/luminati-io/Google-Hotels-Scraper/blob/main/google-hotels-scraper/google-hotels-scraper.py) script with the required parameters:
 ```bash
 python3 google-hotels-scraper.py --location "Dubai" --max_hotels 200
 ```
@@ -92,7 +92,7 @@ Consider Bright Data's dedicated solution below for larger and more reliable dat
 
 1. Create a [Bright Data account](https://brightdata.com/) (new users get $5 credit)
 2. Generate your [API key](https://docs.brightdata.com/general/account/api-token)
-3. Follow our [step-by-step guide](https://github.com/triposat/Google-Hotels-Scraper/blob/main/setup-serp-api-guide.md) to configure the SERP API and access credentials
+3. Follow our [step-by-step guide](https://github.com/luminati-io/Google-Hotels-Scraper/blob/main/setup-serp-api-guide.md) to configure the SERP API and access credentials
 4. To use the Google Hotels API, you'll need the entity ID of the hotel you want to query. You can find this by:
 	1. Searching for the hotel name in Google
 	2. Right-clicking and selecting "View page source"
@@ -138,7 +138,7 @@ with open("serp-direct-api.json", "w") as file:
 print("Response saved to 'serp-direct-api.json'.")
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/Google-Hotels-Scraper/blob/main/google-hotels-api-results/serp-direct-api.json).
+👉 See the [full JSON output](https://github.com/luminati-io/Google-Hotels-Scraper/blob/main/google-hotels-api-results/serp-direct-api.json).
 
 **Note:** Use `brd_json=1` for parsed JSON or `brd_json=html` for parsed JSON + full nested HTML.
 
@@ -180,7 +180,7 @@ with open("serp-native-proxy.html", "w", encoding="utf-8") as file:
 print("Response saved to 'serp-native-proxy.html'.")
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/Google-Hotels-API/blob/main/google-hotels-api-results/serp-native-proxy.html).
+👉 See the [full JSON output](https://github.com/luminati-io/Google-Hotels-API/blob/main/google-hotels-api-results/serp-native-proxy.html).
 
 **Note:** For production environments, load Bright Data's SSL certificate as described in the [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate).
 

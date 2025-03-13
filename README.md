@@ -1,5 +1,7 @@
 # Google Hotels Scraper
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/google-search/hotels)
+
 Learn how to scrape real-time hotel data from Google – one of the largest travel data aggregators. We cover two methods:
 
 1. **Free Scraper**: Ideal for small-scale needs.
